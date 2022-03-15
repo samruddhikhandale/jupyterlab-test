@@ -9,6 +9,7 @@ Install requirements in a virtual environment:
 ```sh
 # Activate the virtual environment
 pip install virtualenv
+virtualenv venv
 source ./venv/bin/activate
 
 # Install all requirements
