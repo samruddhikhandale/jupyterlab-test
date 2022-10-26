@@ -1,4 +1,5 @@
-nltk==3.7
+uvicorn==0.12.2
+fastapi==0.63.0
 cycler==0.11.0
 fonttools==4.30.0
 kiwisolver==1.4.0
